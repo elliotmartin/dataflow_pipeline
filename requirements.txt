@@ -31,7 +31,7 @@ numpy==1.17.4
 oauth2client==3.0.0
 pbr==5.4.3
 pkg-resources==0.0.0
-protobuf==3.10.0
+protobuf==3.18.3
 pyarrow==0.15.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
