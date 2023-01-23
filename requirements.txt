@@ -44,7 +44,7 @@ PyYAML==3.13
 requests==2.22.0
 rsa==4.0
 six==1.13.0
-spotipy==2.4.4
+spotipy==2.22.1
 typing==3.7.4.1
 typing-extensions==3.7.4.1
 urllib3==1.25.7
